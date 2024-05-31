@@ -1,0 +1,24 @@
+herança: é uma forma de reutilização de software. além disso, permite manutenção simples e eficiente,
+alterações em cascata.
+
+sobrescrita de métodos (override): métodos com o mesmo nome, mesmos parâmetros e mesmo tipo de retorno.
+mudando apenas a implementação .
+
+• Sobrescrita é o processo de fornecer uma implementação diferente para um
+método já definido em uma classe base.
+• Isso é feito na classe derivada, que herda o método da classe base.
+• A sobrescrita é realizada com a mesma assinatura de método da classe
+base, mas com uma implementação diferente.
+• Isso permite que a classe derivada substitua o comportamento da classe
+base para o método em questão.
+
+
+sobrecarga de métodos (overload): métodos com o mesmo nome, porém com parâmetros distintos e/ou tipos de retorno distintos. 
+A sobrecarga é o processo de fornecer várias implementações para um
+método com o mesmo nome, mas com diferentes assinaturas de parâmetros.
+
+• Isso permite que a classe tenha vários métodos com o mesmo nome, mas
+que façam coisas diferentes, dependendo dos parâmetros que são passados.
+    exemplo: construtores.
+• O Java decide qual método chamar com base nos parâmetros que são
+passados durante a chamada do método
