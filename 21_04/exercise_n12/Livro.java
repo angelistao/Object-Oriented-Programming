@@ -1,4 +1,4 @@
-package Exercicio12;
+package exercise_n12;
 import java.util.ArrayList;
 import java.util.Comparator;
 

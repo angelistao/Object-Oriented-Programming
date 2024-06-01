@@ -1,4 +1,4 @@
-package Exercicio9;
+package exercise_n9;
 import java.util.ArrayList;
 
 public class Produto {

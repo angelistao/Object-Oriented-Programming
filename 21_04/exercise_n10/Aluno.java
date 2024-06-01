@@ -1,4 +1,4 @@
-package Exercicio10;
+package exercise_n10;
 import java.util.ArrayList;
 
 public class Aluno {

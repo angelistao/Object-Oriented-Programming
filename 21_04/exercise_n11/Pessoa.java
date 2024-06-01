@@ -1,4 +1,4 @@
-package Exercicio11;
+package exercise_n11;
 import java.util.ArrayList;
 
 public class Pessoa {

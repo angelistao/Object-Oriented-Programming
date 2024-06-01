@@ -1,4 +1,4 @@
-package Exercicio5;
+package exercise_n5;
 
 public class Cliente {
     private double valorDescontoDoCliente;

@@ -1,4 +1,4 @@
-package Exercicio4;
+package exercise_n4;
 
 public class ContaBancaria {
     protected double saldo;

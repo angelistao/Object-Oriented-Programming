@@ -1,4 +1,4 @@
-package Exercicio7;
+package exercise_n7;
 
 public class Notificacao {
     public void enviar(){

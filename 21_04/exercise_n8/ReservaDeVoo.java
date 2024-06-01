@@ -1,4 +1,4 @@
-package Exercicio8;
+package exercise_n8;
 
 public class ReservaDeVoo extends Reserva {
     private String classe;

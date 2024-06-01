@@ -1,4 +1,4 @@
-package Exercicio8;
+package exercise_n8;
 
 public class ReservaDeHotel extends Reserva {
     private String tipoQuarto;
